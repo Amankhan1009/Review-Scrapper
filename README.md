@@ -61,10 +61,15 @@ Feel free to explore the codebase and customize the scraper to suit your specifi
 ## Example Screenshots
 
 Below are some example screenshots of the application in action:
-![Home Page](snapshots\image.png)
-![Review Extraction](snapshots\image-2.png)
-![Analysis](snapshots\image-3.png)
-![Analysis](snapshots\image-4.png)
-![Product Sections](snapshots\image-5.png)
+![Home Page](<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/c6dc8d4c-2ee2-43fc-b7a5-177699bdd255" />
+)
+![Review Extraction](<img width="1918" height="859" alt="image" src="https://github.com/user-attachments/assets/36ee92f8-3c43-4a0f-94be-9b1f25d3b37a" />
+)
+![Analysis](<img width="1919" height="848" alt="image" src="https://github.com/user-attachments/assets/cee9732d-34b8-48fe-ac79-b747810c6b93" />
+)
+![Analysis](<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/d9675f1d-462e-4eee-8288-57690e44c914" />
+)
+![Product Sections](<img width="1758" height="860" alt="image" src="https://github.com/user-attachments/assets/bf1a15bb-6363-4300-892f-631918303032" />
+)
 
 Happy scraping! 🕵️‍♂️🚀
